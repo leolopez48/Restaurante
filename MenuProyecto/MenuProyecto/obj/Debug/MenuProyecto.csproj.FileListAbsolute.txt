@@ -1,0 +1,36 @@
+c:\users\roberto\documents\visual studio 2015\Projects\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe.config
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csprojResolveAssemblyReference.cache
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Desplegable.resources
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.fmrMenu.resources
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Properties.Resources.resources
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csproj.GenerateResource.Cache
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.pdb
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\bin\Debug\Sql.dll
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\bin\Debug\Sql.pdb
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.exe
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe.config
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.exe
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\bin\Debug\Sql.dll
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\bin\Debug\Sql.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csprojResolveAssemblyReference.cache
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Desplegable.resources
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.fmrMenu.resources
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Properties.Resources.resources
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe.config
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.exe
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.pdb
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.exe
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\bin\Debug\MenuProyecto.pdb
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\bin\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\bin\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csprojResolveAssemblyReference.cache
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Desplegable.resources
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.fmrMenu.resources
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.Properties.Resources.resources
+D:\Proyectos\Proyecto estructurada\MenuProyecto\MenuProyecto\obj\Debug\MenuProyecto.csproj.GenerateResource.Cache

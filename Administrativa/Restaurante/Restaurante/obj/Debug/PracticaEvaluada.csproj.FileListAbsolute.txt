@@ -1,0 +1,104 @@
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\bin\Debug\ControlDeLecura.exe.config
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\bin\Debug\ControlDeLecura.exe
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\bin\Debug\ControlDeLecura.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\bin\Debug\Sql.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\bin\Debug\Sql.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\PracticaEvaluada.csprojResolveAssemblyReference.cache
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\ControlDeLecura.Form1.resources
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\ControlDeLecura.Properties.Resources.resources
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\PracticaEvaluada.csproj.GenerateResource.Cache
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\ControlDeLecura.exe
+D:\Leonel\Documents\Visual Studio 2015\Projects\ControlDeLecura\ControlDeLecura\obj\Debug\ControlDeLecura.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Shared.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\stdole.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csprojResolveAssemblyReference.cache
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\ControlDeLecura.Form1.resources
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.Properties.Resources.resources
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.GenerateResource.Cache
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\FlashControlV71.dll
+D:\Leonel\Documents\Visual Studio 2015\Projects\PracticaEvaluada\PracticaEvaluada\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.pdb
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\FlashControlV71.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\stdole.dll
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.pdb
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csprojResolveAssemblyReference.cache
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\ControlDeLecura.Form1.resources
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.Properties.Resources.resources
+C:\Users\ROBERTO\Desktop\PRINCIPAL\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\PracticaEvaluada.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csprojResolveAssemblyReference.cache
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\ControlDeLecura.Form1.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.Properties.Resources.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\FlashControlV71.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\stdole.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Web.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CRVsPackageLib.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\EnvDTE.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\VSLangProj.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\VsWebSite.Interop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\EnvDTE80.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.MSXML.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\PracticaEvaluada.csproj.PracticaEvaluada.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.Form1.resources

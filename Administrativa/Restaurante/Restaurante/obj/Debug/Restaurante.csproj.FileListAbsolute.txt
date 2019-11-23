@@ -1,0 +1,109 @@
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Web.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\FlashControlV71.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\CRVsPackageLib.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\EnvDTE.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\VSLangProj.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\VsWebSite.Interop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\EnvDTE80.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\stdole.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Microsoft.MSXML.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Restaurante.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.csproj.Restaurante.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.Form1.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.Properties.Resources.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Restaurante.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\bin\Debug\Restaurante.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\PracticaEvaluada\obj\Debug\Restaurante.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Web.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\FlashControlV71.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CRVsPackageLib.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\EnvDTE.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\VSLangProj.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\VsWebSite.Interop.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\EnvDTE80.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\stdole.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.MSXML.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.Restaurante.exe.config
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+D:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Shared.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.VSDesigner.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Web.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\FlashControlV71.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Sql.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\CRVsPackageLib.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\EnvDTE.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\VSLangProj.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\VsWebSite.Interop.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\EnvDTE80.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\ShockwaveFlashObjects.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\stdole.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.MSXML.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Sql.pdb
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.Restaurante.exe.config
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Restaurante\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

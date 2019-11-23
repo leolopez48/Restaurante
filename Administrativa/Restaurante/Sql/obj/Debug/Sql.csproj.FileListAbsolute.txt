@@ -1,0 +1,30 @@
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\bin\Debug\Sql.dll.config
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\bin\Debug\Sql.dll
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\bin\Debug\Sql.pdb
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\obj\Debug\Sql.csprojAssemblyReference.cache
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\obj\Debug\Sql.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\obj\Debug\Sql.dll
+C:\Users\elvis\Documents\Visual Studio 2019\Projects\sistemaclientes-DS09B\Sql\obj\Debug\Sql.pdb
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\bin\Debug\Sql.dll.config
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\bin\Debug\Sql.dll
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\bin\Debug\Sql.pdb
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\obj\Debug\Sql.dll
+C:\Users\.NNET\Desktop\sistemaclientes (2)\sistemaclientes-DS09B\Sql\obj\Debug\Sql.pdb
+C:\Proyectos\sistemaclientes\Sql\bin\Debug\Sql.dll.config
+C:\Proyectos\sistemaclientes\Sql\bin\Debug\Sql.dll
+C:\Proyectos\sistemaclientes\Sql\bin\Debug\Sql.pdb
+C:\Proyectos\sistemaclientes\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+C:\Proyectos\sistemaclientes\Sql\obj\Debug\Sql.dll
+C:\Proyectos\sistemaclientes\Sql\obj\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\bin\Debug\Sql.dll.config
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\bin\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\bin\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\obj\Debug\Sql.dll
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\obj\Debug\Sql.pdb
+D:\Proyectos\Proyecto estructurada\Administrativa\PracticaEvaluada (2)\PracticaEvaluada\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Sql\bin\Debug\Sql.dll.config
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Sql\bin\Debug\Sql.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Sql\bin\Debug\Sql.pdb
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Sql\obj\Debug\Sql.dll
+F:\Proyectos\Proyecto estructurada\Administrativa\Restaurante\Sql\obj\Debug\Sql.pdb

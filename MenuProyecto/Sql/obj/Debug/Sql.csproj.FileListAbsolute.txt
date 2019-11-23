@@ -1,0 +1,12 @@
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\bin\Debug\Sql.dll.config
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\bin\Debug\Sql.dll
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\bin\Debug\Sql.pdb
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\obj\Debug\Sql.dll
+C:\Users\ROBERTO\Documents\Visual Studio 2015\Projects\MenuProyecto\Sql\obj\Debug\Sql.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\bin\Debug\Sql.dll.config
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\bin\Debug\Sql.dll
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\bin\Debug\Sql.pdb
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\obj\Debug\Sql.dll
+E:\PROYECTO ESTRUCTURADA\MenuProyecto\Sql\obj\Debug\Sql.pdb
